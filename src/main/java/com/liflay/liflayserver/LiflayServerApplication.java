@@ -8,6 +8,7 @@ public class LiflayServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LiflayServerApplication.class, args);
+		System.out.println("Test Message");
 	}
 
 }
